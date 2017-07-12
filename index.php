@@ -9,8 +9,8 @@
 
 		<table>
 			<tr>
-				<th>Cats</th>
-				<th>Dogs</th>
+			<th>Cats</th>
+			<th>Dogs</th>
 			</tr>
 			<tr>
 				<td>Persian</td>
@@ -35,6 +35,7 @@
 			<li>Kittens</li>
 			<li>Fast Cars</li>
 		</ul>
+
 		<h2>Things to Do Today</h2>
 		<ol>
 			<li>Feed the Kids</li>
@@ -43,6 +44,8 @@
 			<li>Water the Plants</li>
 		</ol>
 
+		<h3>Hot Fire</h3>
+		<img src="images/maisie.jpg" alt="maisie">
 
 	</body>
 </html>
